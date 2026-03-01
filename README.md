@@ -26,34 +26,29 @@ I enjoy building real-world applications and continuously improving my technical
 
 ## 🚀 Project Experience
 
-### 🛒 Online Dollar Electrical Shop (MERN Stack)
-- Developed Customer Contact Us page with form validation and notifications  
-- Integrated frontend and backend using RESTful APIs  
-- Used GitHub & Trello for version control and task management  
+## 📌 Featured Projects  
+
+📱 **Online Dollar Electrical Shop Website**  
+React | Node.js | Express.js | MongoDB | Tailwind CSS  
 
 ---
 
-### 👗 Stylishta – Online Clothes Shopping Mobile App  
-(Android Studio – Java, Kotlin, XML)
-- Implemented user authentication  
-- Developed product browsing and shopping cart features  
-- Designed UI using Figma and XML layouts  
+👗 **Stylishta – Online Dress Shopping Mobile App**  
+Kotlin | Java | Android Studio | XML | Firebase  
+
+---
+💧 **Wellify – Personal Health & Hydration Monitoring App**  
+Kotlin | Java | Android Studio | Shared Preferences | Sensors | Charts  
 
 ---
 
-### 💧 Wellify – Personal Health & Hydration Monitoring App  
-(Android Studio – Java, Kotlin)
-- Integrated SharedPreferences for local data storage  
-- Used sensors and charts for hydration tracking  
-- Implemented data visualization features  
+🏗 **Online Construction Management System**  
+HTML | CSS | JavaScript | PHP | MySQL  
 
 ---
 
-### 🌍 Online Tour Guide System  
-(JavaScript, HTML, CSS, Java)
-- Connected frontend and backend  
-- Worked collaboratively in a team environment  
-
+🌍 **Online Tour Guide System**  
+HTML | CSS | JavaScript | Java  
 ---
 
 ### 🏗️ Online Construction Management System  
