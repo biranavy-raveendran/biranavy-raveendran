@@ -51,11 +51,5 @@ HTML | CSS | JavaScript | PHP | MySQL
 HTML | CSS | JavaScript | Java  
 ---
 
-### 🏗️ Online Construction Management System  
-(JavaScript, HTML, CSS, PHP)
-- Developed Product Management module  
-- Implemented product registration, update & delete functions  
-
----
 
 ⭐ Passionate about learning and building innovative software solutions.
